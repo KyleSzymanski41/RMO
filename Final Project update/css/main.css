@@ -1,0 +1,94 @@
+
+/* main styles*/
+body {
+    background-color: gainsboro;
+
+}
+
+header{
+    background-color: #0c4d78;
+
+}
+
+header h1{
+    color: white;
+}
+
+#container {
+    background-color: white;
+    margin: 30px auto;
+    width: 90%;
+    padding: 20px;
+}
+
+/* text styles */
+
+.bb{
+    border-bottom: 1px solid #000;
+    margin-top: 3%;
+
+}
+
+.bbc{
+    border-bottom: 1px solid #000;
+    margin-bottom: 2%;
+
+}
+
+.abcd{
+    padding-top: 2%;
+}
+/* video Gallery styles */
+
+.lol {
+    border-bottom: 1px solid #000;
+    font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+    width: 100%;
+    margin-top: 2%;
+    margin-bottom: 4%;
+
+}
+
+
+
+/* video container styles */
+.abc{
+    padding-top: 2%;
+    font-family: "Times New Roman", Times, serif;;
+}
+
+
+
+/* video styles */
+.gal{
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 2%;
+}
+
+.cn{
+    background-color: #0c4d78;
+    text-align: center;
+    color: white;
+    padding-bottom: 2%;
+}
+
+
+/* footer style */
+footer{
+    background-color: #0c4d78;
+    color: white;
+    text-align: center;
+    padding: 3%;
+    margin-top: 2%;
+}
+
+/* img style */
+.newstyle{
+    width: 300px;
+    height: 181px;
+}
+
+img{
+    padding: 1px;
+}
