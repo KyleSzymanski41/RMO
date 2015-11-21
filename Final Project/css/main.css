@@ -1,0 +1,30 @@
+html{
+    background-color: black;
+    width: 100%;
+}
+
+body {
+    background-color: gainsboro;
+
+}
+
+header{
+    background-color: #0c4d78;
+
+}
+
+header h1{
+    color: white;
+}
+
+.gal{
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 2%;
+}
+
+.cn{
+    background-color: #0c4d78;
+    text-align: center;
+    color: white;
+}
